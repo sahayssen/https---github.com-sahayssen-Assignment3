@@ -1,0 +1,32 @@
+,DBN,School Name,Borough, District,School Type,Split Sited,Co-located at Any Site,Total Enrollment,Grades 3K-5 Enrollment,Grades 6-8 Enrollment,Grades 9-12 Enrollment,% Asian,% Black,% Hispanic,% Multiracial,% Native American,% White,% Missing Race/Ethnicity Data,% SWD,% ELL,% Poverty,2024-25 ELA # Tested,2024-25 ELA # Proficient (L3&4),2024-25 ELA % Proficient (L3&4),2024-25 Math # Tested,2024-25 Math # Proficient (L3&4),2024-25 Math % Proficient (L3&4),2023-24 Total 4-year August Grad Cohort,2023-24 % 4-year August Graduates,2023-24 Total 6-year Grad Cohort,2023-24 % 6-year Graduates,District,success
+0,84K125,Success Academy Charter School - Bed Stuy 2,K,84,Elementary,,Y,238,238,0,0,2.9%,64.7%,26.9%,3.4%,1.3%,0.8%,0.0%,16.4%,5.9%,79.0%,96,95,99.0%,97,97,100.0%,,,,,84,True
+1,84K129,Success Academy Charter School - Cobble Hill,K,84,Elementary,,Y,259,259,0,0,13.5%,41.3%,25.9%,5.0%,0.4%,13.9%,0.0%,19.3%,6.6%,62.9%,122,112,91.8%,122,119,97.5%,,,,,84,True
+2,84K182,Success Academy Charter School - Williamsburg,K,84,Elementary,,Y,246,246,0,0,5.7%,22.4%,51.2%,9.3%,1.2%,10.2%,0.0%,18.7%,5.7%,69.9%,110,93,84.5%,110,100,90.9%,,,,,84,True
+3,84K367,Success Academy Charter School - Bed Stuy 1,K,84,K-8,Y,Y,904,357,328,219,6.1%,60.8%,25.9%,2.5%,1.9%,2.8%,0.0%,13.1%,4.5%,67.6%,320,311,97.2%,322,320,99.4%,s,0.0%,,,84,True
+4,84K741,Success Academy Charter School - Crown Heights,K,84,K-8,Y,Y,755,473,282,0,1.1%,84.4%,8.9%,2.4%,1.5%,1.9%,0.0%,16.8%,4.6%,78.5%,440,419,95.2%,439,439,100.0%,,,,,84,True
+5,84K752,Success Academy Charter School - Sheepshead Bay,K,84,Elementary,,Y,215,215,0,0,20.5%,12.6%,11.2%,1.9%,0.9%,53.0%,0.0%,9.3%,17.7%,75.8%,,,0.0%,,,,,,,,84,True
+6,84K756,Success Academy Charter School - Prospect Heights,K,84,K-8,,Y,221,221,0,0,1.8%,79.6%,13.1%,3.2%,0.9%,1.4%,0.0%,12.7%,5.0%,76.5%,95,94,98.9%,95,95,100.0%,,,,,84,True
+7,84K772,Success Academy Charter School - Bensonhurst,K,84,Elementary,,Y,714,714,0,0,31.9%,4.8%,8.3%,1.0%,0.6%,53.5%,0.0%,7.8%,26.2%,64.6%,266,246,92.5%,265,258,97.4%,,,,,84,True
+8,84K781,Success Academy Charter School - Bergen Beach,K,84,K-8,Y,Y,960,624,336,0,4.9%,76.0%,6.3%,2.7%,1.7%,8.4%,0.0%,14.8%,3.8%,63.5%,573,497,86.7%,573,536,93.5%,,,,,84,True
+9,84K883,Success Academy Charter School - Bed Stuy 3,K,84,Junior High-Intermediate-Middle,Y,Y,481,296,185,0,6.7%,50.3%,37.2%,1.7%,1.5%,2.7%,0.0%,14.6%,9.4%,74.2%,314,300,95.5%,314,309,98.4%,,,,,84,True
+10,84M170,Success Academy Charter School - Hell's Kitchen,M,84,Elementary,,Y,455,455,0,0,23.1%,24.8%,35.2%,1.8%,4.0%,11.2%,0.0%,16.5%,18.5%,63.3%,176,164,93.2%,177,175,98.9%,,,,,84,True
+11,84M174,Success Academy Charter School - Union Square,M,84,K-8,Y,Y,963,620,343,0,24.4%,22.4%,33.0%,4.7%,0.6%,14.8%,0.0%,17.4%,7.1%,58.6%,574,542,94.4%,575,560,97.4%,,,,,84,True
+12,84M351,Success Academy Charter School - Harlem 1,M,84,K-12 all grades,Y,Y,1489,434,171,884,4.3%,60.2%,28.6%,1.5%,0.7%,4.7%,0.0%,11.2%,2.4%,66.7%,361,330,91.4%,360,331,91.9%,249,63.9%,72,86.1%,84,True
+13,84M358,Success Academy Charter School - Hudson Yards,M,84,Elementary,,Y,356,356,0,0,16.9%,19.9%,40.2%,8.7%,1.4%,12.9%,0.0%,18.8%,15.4%,63.2%,146,132,90.4%,146,138,94.5%,,,,,84,True
+14,84M384,Success Academy Charter School - Harlem 2,M,84,K-8,,Y,232,232,0,0,1.3%,61.2%,32.8%,3.9%,0.0%,0.9%,0.0%,17.7%,15.5%,88.4%,95,88,92.6%,95,91,95.8%,,,,,84,True
+15,84M385,Success Academy Charter School - Harlem 3,M,84,K-12 all grades,Y,Y,621,321,300,0,3.1%,55.9%,34.8%,1.8%,2.3%,2.3%,0.0%,24.5%,5.6%,82.6%,380,349,91.8%,379,368,97.1%,s,0.0%,73,86.3%,84,True
+16,84M386,Success Academy Charter School - Harlem 4,M,84,Elementary,Y,Y,380,244,136,0,3.2%,48.2%,41.8%,3.7%,0.3%,2.9%,0.0%,20.5%,5.8%,82.6%,260,227,87.3%,258,251,97.3%,,,,,84,True
+17,84M482,Success Academy Charter School - Harlem 5,M,84,K-8,Y,Y,725,423,302,0,2.9%,65.0%,28.1%,1.8%,0.6%,1.7%,0.0%,17.5%,6.6%,81.7%,394,353,89.6%,395,385,97.5%,,,,,84,True
+18,84M523,Success Academy Charter School - Upper West,M,84,K-8,Y,Y,991,490,501,0,20.3%,18.6%,37.1%,3.9%,2.2%,17.9%,0.0%,15.6%,3.4%,55.9%,675,651,96.4%,675,657,97.3%,,,,,84,True
+19,84Q337,Success Academy Charter School - Rosedale,Q,84,Elementary,Y,Y,1118,695,423,0,6.3%,77.8%,8.5%,4.0%,2.3%,1.1%,0.0%,13.7%,0.9%,61.4%,574,527,91.8%,575,534,92.9%,,,,,84,True
+20,84Q339,Success Academy Charter School - Springfield Gardens - New York 6,Q,84,K-8,,Y,982,650,332,0,2.3%,87.2%,5.3%,1.6%,3.0%,0.6%,0.0%,17.2%,0.9%,55.7%,580,542,93.4%,578,558,96.5%,,,,,84,True
+21,84Q375,Success Academy Charter School - Far Rockaway,Q,84,Elementary,Y,Y,713,551,162,0,0.6%,73.2%,21.0%,3.1%,0.7%,1.4%,0.0%,16.0%,5.0%,76.9%,380,311,81.8%,380,327,86.1%,,,,,84,True
+22,84Q422,Success Academy Charter School - NYC 14,Q,84,Ungraded,,Y,166,166,0,0,10.8%,73.5%,12.0%,1.2%,2.4%,0.0%,0.0%,19.9%,1.2%,65.7%,159,125,78.6%,159,142,89.3%,,,,,84,True
+23,84X380,Success Academy Charter School - Bronx 3,X,84,K-8,Y,Y,1351,550,360,441,1.5%,57.2%,36.7%,1.1%,1.6%,1.9%,0.0%,14.1%,4.1%,80.8%,482,446,92.5%,483,461,95.4%,s,0.0%,,,84,True
+24,84X464,Success Academy Charter School - Bronx 4,X,84,Elementary,,Y,564,564,0,0,3.9%,47.2%,44.0%,1.6%,1.4%,2.0%,0.0%,13.7%,11.0%,82.4%,211,209,99.1%,211,211,100.0%,,,,,84,True
+25,84X493,Success Academy Charter School - Bronx 1,X,84,Elementary,,Y,508,395,113,0,2.2%,64.2%,30.1%,1.0%,1.6%,1.0%,0.0%,14.8%,7.7%,86.0%,304,283,93.1%,304,285,93.8%,,,,,84,True
+26,84X494,Success Academy Charter School - Bronx 2,X,84,K-8,Y,Y,885,626,259,0,1.2%,61.6%,32.1%,2.4%,0.7%,2.0%,0.0%,17.6%,6.6%,88.9%,475,465,97.9%,475,473,99.6%,,,,,84,True
+27,84X637,Success Academy Charter School – Bronx 5 Lower,X,84,Elementary,,Y,135,135,0,0,0.7%,47.4%,43.7%,0.7%,1.5%,5.9%,0.0%,10.4%,17.8%,94.1%,,,0.0%,,,,,,,,84,True
+28,84X638,Success Academy Charter School – Bronx 5 Upper,X,84,Elementary,,Y,96,96,0,0,0.0%,49.0%,50.0%,0.0%,1.0%,0.0%,0.0%,17.7%,11.5%,91.7%,86,82,95.3%,85,85,100.0%,,,,,84,True
+29,84X645,Success Academy Charter School - NYC 5,X,84,K-12 all grades,,Y,119,119,0,0,1.7%,68.1%,30.3%,0.0%,0.0%,0.0%,0.0%,8.4%,5.0%,84.9%,,,0.0%,,,,,,,,84,True
+30,84X646,Success Academy Charter School - NYC 6,X,84,Ungraded,,Y,55,55,0,0,1.8%,70.9%,21.8%,0.0%,1.8%,3.6%,0.0%,18.2%,7.3%,81.8%,,,0.0%,,,,,,,,84,True
